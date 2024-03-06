@@ -50,4 +50,7 @@ sources:
           - name: log_cost
             description: the cost of preparing the parcel in the warehouse
           - name: ship_cost
-            description: the shipping cost paid by Greenweez to the carrier/transporter
+            description: the shipping cost paid by Greenweez to the carrier/transporter 
+
+
+    
